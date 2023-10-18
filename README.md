@@ -1,4 +1,4 @@
-# codestorm-challenge
+# Codestorm-Challenge
 
 1. About the Project:
 
