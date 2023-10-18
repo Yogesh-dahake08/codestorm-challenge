@@ -6,8 +6,6 @@ The Introduction to Computer Programming project is designed to evaluate I under
 
 2. Skills Required:
 
-I should possess the following skills and knowledge:
-
 Proficiency in Python programming language
 Understanding of data types, indexing, and slicing in Python
 Familiarity with operators, in-built functions, and methods
